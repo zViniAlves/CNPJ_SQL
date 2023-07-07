@@ -1,0 +1,4 @@
+pyodbc
+tk
+requests
+zipfile

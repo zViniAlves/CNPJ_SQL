@@ -1,0 +1,8 @@
+USE {database};
+
+DROP TABLE cnae;
+DROP TABLE motivos;
+DROP TABLE municipios;
+DROP TABLE natureza;
+DROP TABLE pais;
+DROP TABLE qualificação;
